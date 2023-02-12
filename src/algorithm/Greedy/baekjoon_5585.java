@@ -2,7 +2,12 @@ package algorithm.Greedy;
 
 import java.util.Scanner;
 
-public class change_5585 {
+/**
+ * 백준_5585번
+ * title : 거스름돈
+ */
+
+public class baekjoon_5585 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = 1000 - sc.nextInt();

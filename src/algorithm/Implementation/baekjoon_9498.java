@@ -2,7 +2,12 @@ package algorithm.Implementation;
 
 import java.util.Scanner;
 
-public class testResults_9498 {
+/**
+ * 백준_9498번
+ * title : 시험성적
+ */
+
+public class baekjoon_9498 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
